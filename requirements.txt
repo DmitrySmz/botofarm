@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy>=2.0
+asyncpg
+pydantic>=2
+pydantic-settings>=2
+passlib[bcrypt]
+email-validator
